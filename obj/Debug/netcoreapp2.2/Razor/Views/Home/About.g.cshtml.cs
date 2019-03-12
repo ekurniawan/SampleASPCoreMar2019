@@ -13,7 +13,18 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#line 1 "C:\Kuliah\2019\SampleASPCore\Views\_ViewImports.cshtml"
+using SampleASPCore;
+
+#line default
+#line hidden
+#line 2 "C:\Kuliah\2019\SampleASPCore\Views\_ViewImports.cshtml"
+using SampleASPCore.Models;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ffccc77b635a79decab0d651d2dd4a50b3b78bd7", @"/Views/Home/About.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c1d333f8d5d686f7d92ce436d3ba3663d9a602e0", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_About : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #line hidden
@@ -43,7 +54,7 @@ namespace AspNetCore
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
             EndContext();
             BeginContext(25, 46, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ffccc77b635a79decab0d651d2dd4a50b3b78bd72861", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ffccc77b635a79decab0d651d2dd4a50b3b78bd73270", async() => {
                 BeginContext(31, 33, true);
                 WriteLiteral("\r\n    <title>About Page</title>\r\n");
                 EndContext();
@@ -63,7 +74,7 @@ namespace AspNetCore
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(73, 107, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ffccc77b635a79decab0d651d2dd4a50b3b78bd74073", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ffccc77b635a79decab0d651d2dd4a50b3b78bd74482", async() => {
                 BeginContext(79, 94, true);
                 WriteLiteral("\r\n    <h1>Selamat Datang di About Page</h1>\r\n    <p>Selamat Datang di Halaman About Page</p>\r\n");
                 EndContext();
