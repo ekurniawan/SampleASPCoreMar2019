@@ -12,3 +12,12 @@ C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.AssemblyInfo.
 C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.RazorTargetAssemblyInfo.cache
 C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.dll
 C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.pdb
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.Views.dll
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.Views.pdb
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.TagHelpers.input.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.TagHelpers.output.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.RazorCoreGenerate.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.RazorTargetAssemblyInfo.cs
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.Views.pdb
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.csproj.CopyComplete
