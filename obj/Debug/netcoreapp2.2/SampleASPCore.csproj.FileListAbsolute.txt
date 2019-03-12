@@ -1,0 +1,14 @@
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.deps.json
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.runtimeconfig.json
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.runtimeconfig.dev.json
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.dll
+C:\Kuliah\2019\SampleASPCore\bin\Debug\netcoreapp2.2\SampleASPCore.pdb
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.csprojAssemblyReference.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.csproj.CoreCompileInputs.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.RazorAssemblyInfo.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.RazorAssemblyInfo.cs
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.AssemblyInfoInputs.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.AssemblyInfo.cs
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.RazorTargetAssemblyInfo.cache
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.dll
+C:\Kuliah\2019\SampleASPCore\obj\Debug\netcoreapp2.2\SampleASPCore.pdb
