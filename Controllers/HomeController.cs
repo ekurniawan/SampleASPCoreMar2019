@@ -6,8 +6,8 @@ namespace SampleASPCore.Controllers {
             return View();
         }
 
-        public string About(){
-            return "Hello from About";
+        public IActionResult About(){
+            return View();
         }
     }
 }
