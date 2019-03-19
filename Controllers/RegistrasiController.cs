@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using SampleASPCore.Models;
 
 namespace SampleASPCore.Controllers {
     public class RegistrasiController : Controller{
@@ -7,9 +8,9 @@ namespace SampleASPCore.Controllers {
             return View();
         }
 
-        public IActionResult Tampil(string Firstname,string Lastname)
+        public IActionResult Tampil(Anggota anggota)
         {
-            return Content($"Nama : {Firstname} {Lastname}");
+            return Content($"Nama : {anggota.Firstname} {anggota.Lastname}, {anggota.Address}, {anggota.Telp}");
         }
     }
 }
