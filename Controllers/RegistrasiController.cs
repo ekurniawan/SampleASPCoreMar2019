@@ -10,7 +10,8 @@ namespace SampleASPCore.Controllers {
 
         public IActionResult Tampil(Anggota anggota)
         {
-            return Content($"Nama : {anggota.Firstname} {anggota.Lastname}, {anggota.Address}, {anggota.Telp}");
+            //return Content($"Nama : {anggota.Firstname} {anggota.Lastname}, {anggota.Address}, {anggota.Telp}");
+            return View(anggota);
         }
     }
 }
